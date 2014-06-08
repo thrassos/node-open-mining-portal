@@ -1,5 +1,7 @@
 {
     "name": "Ezcoin",
     "symbol": "EZC",
-    "algorithm": "scrypt"
+    "algorithm": "scrypt",
+    "peerMagic": "fec3a5df",
+    "peerMagicTestnet": "f2c5a7de"
 }
