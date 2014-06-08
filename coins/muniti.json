@@ -2,7 +2,7 @@
     "name": "Muniti",
     "symbol": "MUN",
     "algorithm": "x11",
-    "peerMagic": "fdc0b9de",
+    "peerMagic": "fdc0b8de",
     "peerMagicTestnet": "fec4bade",
     "mposDiffMultiplier": 256
 }
