@@ -1,0 +1,8 @@
+{
+    "name": "Nanolite",
+    "symbol": "NL",
+    "algorithm": "x11",
+    "peerMagic": "fec3b9de",
+    "peerMagicTestnet": "fec4bade",
+    "mposDiffMultiplier": 256
+}
