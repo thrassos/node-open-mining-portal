@@ -1,0 +1,7 @@
+{
+    "name": "Tagcoin",
+    "symbol": "TAG",
+    "algorithm": "scrypt",
+    "peerMagic": "f4ede2b9",
+    "peerMagicTestnet": "cef1c4ed"
+}
